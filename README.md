@@ -2,8 +2,6 @@
 <h3 align="center">DevOps Engineer</h3>
 <img align="right" alt="Coding" width="400" src=https://cdn.hashnode.com/res/hashnode/image/upload/v1679457321415/e404c522-8c6c-429a-b226-f8c98b9c3948.gif>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullah-hamada7&label=Profile%20views&color=0e75b6&style=flat" alt="abdullah-hamada7" /> </p>
-
 - 👨‍💻 All of my projects are available at [https://github.com/abdullah-hamada7?tab=repositories](https://github.com/abdullah-hamada7?tab=repositories)
 
 - 💬 Ask me about **DevOps & Cloud**
