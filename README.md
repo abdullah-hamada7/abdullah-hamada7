@@ -1,3 +1,4 @@
+[![MasterHead](https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif)]
 <h1 align="center">Hi 👋, I'm Abdullah Hamada</h1>
 <h3 align="center">DevOps Engineer</h3>
 <img align="right" alt="Coding" width="400" src=https://cdn.hashnode.com/res/hashnode/image/upload/v1679457321415/e404c522-8c6c-429a-b226-f8c98b9c3948.gif>
